@@ -5,7 +5,7 @@ Content ideas
 
 ### Text Classification
 
-#### Categorize Github Issues
+#### 1. Categorize Github Issues
 
 Keeping the issue tracker tidy is something many open source projects struggle with – so automated tools could definitely be helpful. How easy would it be to create a bot to tag the issues automatically? Text classification really shines when the task would otherwise be performed by hand.
 
@@ -17,6 +17,8 @@ Keeping the issue tracker tidy is something many open source projects struggle w
   - fastText: [https://github.com/facebookresearch/fastText](https://github.com/facebookresearch/fastText)
   - Comparison of different models: [https://github.com/brightmart/text_classification](https://github.com/brightmart/text_classification)
 - Idea source: https://explosion.ai/blog/prodigy-annotation-tool-active-learning
+
+----
 
 ### Reading
 
